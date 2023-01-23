@@ -1,0 +1,6 @@
+memphis_py==0.2.7
+redis
+pytest
+mockito
+asynctest
+mockito
